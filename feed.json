@@ -1,0 +1,50 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Anthony Ronda",
+	"icon": "https://micro.blog/anthonyronda/avatar.jpg",
+	"home_page_url": "https://anthonyronda.micro.blog/",
+	"feed_url": "https://anthonyronda.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://anthonyronda.micro.blog/2022/12/24/time-to-restart.html",
+				
+				"content_html": "<p>🎮 time to restart some games I never finished 😁</p>\n",
+				"content_text": "🎮 time to restart some games I never finished 😁\n",
+				"date_published": "2022-12-24T15:45:40-05:00",
+				"url": "https://anthonyronda.micro.blog/2022/12/24/time-to-restart.html"
+			},
+			{
+				"id": "http://anthonyronda.micro.blog/2022/12/22/volunteering-my-time.html",
+				
+				"content_html": "<p>👨‍💻 volunteering my time over the last couple weeks helping a non-profit with their website. It&rsquo;s my first time using Squarespace and it&rsquo;s surprisingly buggy! 🐞</p>\n",
+				"content_text": "👨‍💻 volunteering my time over the last couple weeks helping a non-profit with their website. It's my first time using Squarespace and it's surprisingly buggy! 🐞\n",
+				"date_published": "2022-12-22T14:12:47-05:00",
+				"url": "https://anthonyronda.micro.blog/2022/12/22/volunteering-my-time.html"
+			},
+			{
+				"id": "http://anthonyronda.micro.blog/2022/12/21/interesting-recipesharing-campaign.html",
+				
+				"content_html": "<p>🍺 Interesting recipe-sharing campaign by my local brewers' guild <a href=\"https://www.brewjersey.beer/\">www.brewjersey.beer</a></p>\n",
+				"content_text": "🍺 Interesting recipe-sharing campaign by my local brewers' guild [www.brewjersey.beer](https://www.brewjersey.beer/)\n",
+				"date_published": "2022-12-21T12:30:18-05:00",
+				"url": "https://anthonyronda.micro.blog/2022/12/21/interesting-recipesharing-campaign.html"
+			},
+			{
+				"id": "http://anthonyronda.micro.blog/2022/12/20/happy-d-day.html",
+				"title": "Happy D20 Day",
+				"content_html": "<p>In a past life (2020), I organized an event on December 20th called <strong>D20 Day</strong>. I envisioned it to be a day celebrating the 20-sided die used in tabletop games. In the meantime, however, it was a one-day hackathon for me and my newfound friends in the Javascript-loving &ldquo;Foundry module making&rdquo; scene (more on that someday).</p>\n<p>I had bought the domain name for the occasion, but didn&rsquo;t really have time to complete the idea I had envisioned for the website.</p>\n<p>Instead we notified gamers of the occasion directly on Discord. Each of us Twitch streamed our coding sessions for a couple hours, together comprising a full 24-hour broadcast. At the end of our shifts, each of us selected viewers to win software keys for <a href=\"https://foundryvtt.com\">Foundry Virtual Tabletop</a> (randomly of course, at the roll of a die).</p>\n<p>It was really the highlight of the year for our little coding troupe. We were all so excited to grow the event. But when the time came to plan our sequel, we decided that we were all quite busy doing our own things.</p>\n<hr>\n<p>Completely unbeknownst to me, the creators of Dungeons &amp; Dragons jumped on the D20 Day bandwagon in 2021. <a href=\"https://gamingtrend.com/news/d20-day-is-happening-on-monday-join-jack-black-michelle-rodriguez-and-more-at-10-am-pt-for-lost-odyssey-promised-gold/\">A charity livestream</a> was announced starring <em>Deborah Ann Woll</em> as Dungeonmaster, with a supporting cast including <em>Michelle Rodriguez</em> and <em>Jack Black.</em></p>\n<p>I&rsquo;m happy that this novelty holiday found a worthy cause in Children&rsquo;s Miracle Network Hospitals. And I believe they decided not to register a trademark for D20 Day out from under me, a nice change of habit for Hasbro. Sadly, it seems like there won&rsquo;t be a repeat performance this year.</p>\n<p>Since the first D20 Day, I&rsquo;ve pondered all sorts of schemes to celebrate enumerated icosahedrons in a way that respected the original spirit of the holiday (namely, non-corporate). Let&rsquo;s be realistic though, I don&rsquo;t have a lot of time for event planning, so that little unfinished webapp I cooked up in 2020 is going to collect dust on the hard drive just a little longer.</p>\n<hr>\n<p>You could almost call it timely–a cottage community of adventure writers and cartographers, who republish snippets of the open-licensed version of Dungeons &amp; Dragons, are getting fearful for their future. Over the last week or so, they&rsquo;ve campaigned for Hasbro-subsidiary Wizards of the Coast to confirm support for the open license in the next edition of the game.</p>\n<p>I say this <em>could</em> be timely because &ldquo;d20&rdquo; used to be the official trademark these third-party authors were allowed to use to signify &ldquo;D&amp;D-compatible,&rdquo; before that too was taken away. D20 Day could yet again be a force for change&hellip;</p>\n<p>But I say &ldquo;almost,&rdquo; because it&rsquo;s hard for me not to think of these creators' social media campaigns as rent-seeking. I don&rsquo;t feel comfortable for purely commercial interests to come out ahead of what matters:</p>\n<p>Randomness, chaos. The clacking and clattering cacophany of plastic resin.</p>\n<p>The sanctity of D20 Day must be protected, even if it means rolling for stealth this time.</p>\n",
+				"content_text": "In a past life (2020), I organized an event on December 20th called **D20 Day**. I envisioned it to be a day celebrating the 20-sided die used in tabletop games. In the meantime, however, it was a one-day hackathon for me and my newfound friends in the Javascript-loving \"Foundry module making\" scene (more on that someday). \n\nI had bought the domain name for the occasion, but didn't really have time to complete the idea I had envisioned for the website. \n\nInstead we notified gamers of the occasion directly on Discord. Each of us Twitch streamed our coding sessions for a couple hours, together comprising a full 24-hour broadcast. At the end of our shifts, each of us selected viewers to win software keys for [Foundry Virtual Tabletop](https://foundryvtt.com) (randomly of course, at the roll of a die).\n\nIt was really the highlight of the year for our little coding troupe. We were all so excited to grow the event. But when the time came to plan our sequel, we decided that we were all quite busy doing our own things.\n\n---\n\nCompletely unbeknownst to me, the creators of Dungeons & Dragons jumped on the D20 Day bandwagon in 2021. [A charity livestream](https://gamingtrend.com/news/d20-day-is-happening-on-monday-join-jack-black-michelle-rodriguez-and-more-at-10-am-pt-for-lost-odyssey-promised-gold/) was announced starring *Deborah Ann Woll* as Dungeonmaster, with a supporting cast including *Michelle Rodriguez* and *Jack Black.*\n\nI'm happy that this novelty holiday found a worthy cause in Children's Miracle Network Hospitals. And I believe they decided not to register a trademark for D20 Day out from under me, a nice change of habit for Hasbro. Sadly, it seems like there won't be a repeat performance this year.\n\nSince the first D20 Day, I've pondered all sorts of schemes to celebrate enumerated icosahedrons in a way that respected the original spirit of the holiday (namely, non-corporate). Let's be realistic though, I don't have a lot of time for event planning, so that little unfinished webapp I cooked up in 2020 is going to collect dust on the hard drive just a little longer.\n\n---\n\nYou could almost call it timely–a cottage community of adventure writers and cartographers, who republish snippets of the open-licensed version of Dungeons & Dragons, are getting fearful for their future. Over the last week or so, they've campaigned for Hasbro-subsidiary Wizards of the Coast to confirm support for the open license in the next edition of the game.\n\nI say this *could* be timely because \"d20\" used to be the official trademark these third-party authors were allowed to use to signify \"D&D-compatible,\" before that too was taken away. D20 Day could yet again be a force for change...\n\nBut I say \"almost,\" because it's hard for me not to think of these creators' social media campaigns as rent-seeking. I don't feel comfortable for purely commercial interests to come out ahead of what matters: \n\nRandomness, chaos. The clacking and clattering cacophany of plastic resin.\n\nThe sanctity of D20 Day must be protected, even if it means rolling for stealth this time.\n",
+				"date_published": "2022-12-20T17:31:21-05:00",
+				"url": "https://anthonyronda.micro.blog/2022/12/20/happy-d-day.html"
+			},
+			{
+				"id": "http://anthonyronda.micro.blog/2022/12/19/well-i-made.html",
+				
+				"content_html": "<p>Well, I made a new blog. That&rsquo;s my 2023 goals covered</p>\n",
+				"content_text": "Well, I made a new blog. That's my 2023 goals covered\n",
+				"date_published": "2022-12-19T15:33:24-05:00",
+				"url": "https://anthonyronda.micro.blog/2022/12/19/well-i-made.html"
+			}
+	]
+}
